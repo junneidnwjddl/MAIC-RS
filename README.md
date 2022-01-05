@@ -6,6 +6,11 @@ SNUH MAIC Robotic Surgery AI Challenge, 전립선암 로봇수술 동영상을 �
 - 팀원: [한우정](https://github.com/dnwjddl)
 
 
+### 최종 결과
+- 3등 - 한우정과 아이들 (Accuracy 40.39 + 발표평가 28.8 = 69.19 점)
+- 발표자료 [PDF](https://github.com/junneidnwjddl/MAIC-RS/blob/main/211213_우정이%26아이들_발표자료.pdf)
+
+
 ### 파일 가이드 (FINAL_SUBMISSION)
 - ```Data Analysis.ipynb``` : 필수 제출 항목 1, 2 만족. (1. 학습 데이터셋을 input으로 받아 모델 weight를 output으로 저장 / 모델 weight와 테스트 데이터의 메타데이터 등을 input으로 받아 최고 점수에 해당하는 csv를 제출하는 .ipynb와 weight )
 - ```ckpt.index``` ,```ckpt.data-00000-of-00001``` : 필수 제출 항목 2 만족. 최고 점수에 해당하는 csv를 제출하는 weight (약간의 차이가 있을 수 있음.)
